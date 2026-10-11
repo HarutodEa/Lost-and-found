@@ -1,4 +1,4 @@
-# 🔍 CariBarang - Lost & Found Platform
+# 🔍 Lost & Found Platform
 
 CariBarang adalah sebuah platform web untuk melaporkan kehilangan dan penemuan barang. Proyek ini dibangun menggunakan **Laravel** dan **Tailwind CSS** dengan antarmuka (UI) bergaya *feed* ala media sosial (Twitter/X) yang modern, bersih, dan responsif.
 
@@ -34,5 +34,5 @@ Jika Anda ingin mencoba menjalankan proyek ini di komputer Anda, ikuti langkah-l
 
 1. **Clone repositori ini**
    ```bash
-   git clone [https://github.com/USERNAME_ANDA/lost-and-found.git](https://github.com/USERNAME_ANDA/lost-and-found.git)
+   git clone [https://github.com/HarutodEa/lost-and-found.git](https://github.com/HarutodEa/lost-and-found.git)
    cd lost-and-found
